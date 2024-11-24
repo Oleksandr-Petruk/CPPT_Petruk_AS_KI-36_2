@@ -1,0 +1,26 @@
+------------------------------------------
+Shoe size: 42
+Shoe material: fabric
+Shoe color: black
+Laces color: white
+Sole color: white
+Shoes are unlaced
+------------------------------------------
+Shoes are already unlaced
+Shoes were repaired
+Shoes were cleaned
+Laces color was changed into red
+Sole color was changed into black
+Shoes were worn
+Shoes size expanded to 46
+Shoes size shrunk to 44
+Shoes laced
+------------------------------------------
+Shoe size: 44
+Shoe material: fabric
+Shoe color: red
+Laces color: red
+Sole color: black
+Shoes are laced
+------------------------------------------
+Shoes were taken off
